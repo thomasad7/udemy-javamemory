@@ -1,6 +1,8 @@
-package main;
+package main2;
 import java.util.ArrayList;
 import java.util.List;
+
+import main2.NumberChecker;
 
 public class PrimeNumbersTask implements Runnable {
 
